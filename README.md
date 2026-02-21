@@ -1,2 +1,9 @@
 #Steps
 
+```sh
+git clone
+cd chart_app
+source env/bin/activate
+pip3 install -r requirements.txt
+python3 main.py 
+```
